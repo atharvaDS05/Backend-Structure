@@ -54,7 +54,7 @@ pip
 Optional: virtualenv or venv for isolation
 
 1. Clone the Repository
-git clone https://github.com/yourusername/stock-trends-dashboard-backend.git
+https://github.com/atharvaDS05/Backend-Structure.git
 cd stock-trends-dashboard-backend
 2. Create a Virtual Environment
 python3 -m venv venv
@@ -114,4 +114,5 @@ Mackenzie Kong-Sivert – QA and Documentation Support
 
 Frontend Repository
  (to be connected)
+
 
