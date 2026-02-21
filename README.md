@@ -12,7 +12,7 @@ This repository contains the backend services for the Stock Trends Analysis Dash
 
 🔁 Backtest trading strategies using labeled data
 
-🤖 (Optional) Train and evaluate ML models
+🤖 Train and evaluate ML models
 
 🔌 RESTful API endpoints for frontend consumption
 
@@ -114,3 +114,4 @@ Mackenzie Kong-Sivert – QA and Documentation Support
 
 Frontend Repository
  (to be connected)
+
